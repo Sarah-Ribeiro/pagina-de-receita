@@ -1,0 +1,23 @@
+* {
+    font-family: 'Heebo', sans-serif;
+    line-height: 2.2em;
+}
+
+.bolo {
+    border-radius: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1500px;
+    height: 600px;
+}
+
+h1, h2, h3 {
+    text-align: center;
+    justify-content: center;
+    font-weight: 600;
+}
+
+ul, li {
+    font-weight: 400;
+}
